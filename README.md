@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning to code with the help of The School of Code.
+- 🔭 I’m currently working on the #100DaysOfCode challenge.
 
 <!--
 **maramar0414/maramar0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
