@@ -1,4 +1,4 @@
-**Hi there!** 👋 (Emoji-hand waving)
+**Hi there!** 👋 
 
 Welcome to my coding journey! 🚀
 
