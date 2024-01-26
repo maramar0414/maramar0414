@@ -2,7 +2,6 @@
 
 Welcome to my coding journey! 🚀
 
-**Note: This readme is a work in progress.**
 
 In November 2022, I embarked on my coding adventure with FreeCodeCamp, diving into the realms of **HTML** and **CSS**. By March 2023, I delved into my first **JavaScript** tutorial. The turning point in my learning expedition happened in September 2023 when I accelerated into the world of web development at the **School of Code**. Here's a glimpse of what I've covered:
 
